@@ -1,6 +1,8 @@
 # MIT-Linear-Algebra-Learning-Journey
 
-Welcome to my MIT OpenCourseWare Linear Algebra learning journey repository! This repository is for documenting my progress through the MIT 18.06 course, which covers topics such as Ax = b and the Four Subspaces, Least Squares, Determinants and Eigenvalues, Positive Definite Matrices, and more. Join me in learning Linear Algebra which is a fundamental building block in Computer Science, Quantum Computing, Theoretical Physics, and more.
+Welcome to my MIT OpenCourseWare Linear Algebra learning journey repository! This repository is for documenting my progress through the MIT 18.06 course, which covers topics such as Ax = b and the Four Subspaces, Least Squares, Determinants and Eigenvalues, Positive Definite Matrices, and more. 
+
+Through this freely available MIT course, join me in learning Linear Algebra which is a fundamental building block in Computer Science, Quantum Computing, Theoretical Physics, and more.
 
 ## About the Course
 
