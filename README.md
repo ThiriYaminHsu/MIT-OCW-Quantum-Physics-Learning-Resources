@@ -14,10 +14,10 @@ Through this freely available MIT course, join me in learning Linear Algebra whi
 
 ### Unit I: Ax = b and the Four Subspaces
 - **Lecture 1: The Geometry of Linear Equations**
-  - [ ] Lecture Notes
-  - [ ] Lecture Videos
-  - [ ] Problem Sets
-  - [ ] Solutions
+  - [x] Lecture Notes (https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses1-1sum/)
+  - [x] Lecture Videos (https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/the-geometry-of-linear-equations/)
+  - [x] Problem Sets
+  - [x] Solutions
 
 - **Lecture 2: An Overview of Key Ideas**
   - [ ] Lecture Notes
