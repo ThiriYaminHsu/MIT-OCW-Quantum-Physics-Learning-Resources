@@ -16,8 +16,8 @@ Through this freely available MIT course, join me in learning Linear Algebra whi
 - **Lecture 1: The Geometry of Linear Equations**
   - [x] Lecture Notes (https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses1-1sum/)
   - [x] Lecture Videos (https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/the-geometry-of-linear-equations/)
-  - [x] Problem Sets
-  - [x] Solutions
+  - [x] Problem Sets (https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses1-1prob/)
+  - [x] Solutions (https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses1-1sol/)
 
 - **Lecture 2: An Overview of Key Ideas**
   - [ ] Lecture Notes
