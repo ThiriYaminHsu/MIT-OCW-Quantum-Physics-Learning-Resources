@@ -1,16 +1,8 @@
 # MIT-Linear-Algebra-Learning-Journey
 
-Welcome to my MIT OpenCourseWare Linear Algebra learning journey repository! This repository is for documenting my progress through the MIT 18.06 course, which covers topics such as Ax = b and the Four Subspaces, Least Squares, Determinants and Eigenvalues, Positive Definite Matrices, and more. 
-
-Through this freely available MIT course, join me in learning Linear Algebra which is a fundamental building block in Computer Science, Quantum Computing, Theoretical Physics, and more.
-
-## About the Course
-
 - **Course Title:** Linear Algebra (18.06)
 - **Institution:** Massachusetts Institute of Technology (MIT)
 - **Course Link:** [MIT OpenCourseWare - Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/)
-
-## Repository Structure
 
 ### Unit I: Ax = b and the Four Subspaces
 - **Lecture 1: The Geometry of Linear Equations**
@@ -138,22 +130,3 @@ Through this freely available MIT course, join me in learning Linear Algebra whi
  
     
   - **Lecture 34: Final Course Review**
-
-...
-
-## Progress Tracker
-
-- [ ] Unit I In Progress
-- [ ] Unit II In Progress
-- [ ] Unit III In Progress
-
-## How to Use This Repository
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/MIT-Linear-Algebra-Learning.git
-
-## Acknowledgments
-A special thanks to MIT for providing this incredible course for free on OpenCourseWare.
-
-Happy learning!
