@@ -1,4 +1,4 @@
-# Linear-Algebra (18.06)
+# Linear Algebra (18.06)
 
 - **Course Title:** Linear Algebra (18.06)
 - **Institution:** Massachusetts Institute of Technology (MIT)
