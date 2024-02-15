@@ -1,132 +1,45 @@
-# MIT-Linear-Algebra-Learning-Journey
+# Massachusetts Institute of Technology [MITOPENCOURSEWARE](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)
 
-- **Course Title:** Linear Algebra (18.06)
-- **Institution:** Massachusetts Institute of Technology (MIT)
-- **Course Link:** [MIT OpenCourseWare - Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/)
+## Undergraduate Courses
 
-### Unit I: Ax = b and the Four Subspaces
-- **Lecture 1: The Geometry of Linear Equations**
-  - [x] Lecture Notes (https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses1-1sum/)
-  - [x] Lecture Videos (https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/the-geometry-of-linear-equations/)
-  - [x] Problem Sets (https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses1-1prob/)
-  - [x] Solutions (https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses1-1sol/)
+### Mathematics
+- **[18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/)**
+- **[18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/)**
+- **[18.03 Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)**
+- **[18.06 Linear Algebra (18.06)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/)**
 
-- **Lecture 2: An Overview of Key Ideas**
-  - [ ] Lecture Notes
-  - [ ] Lecture Videos
-  - [ ] Problem Sets
-  - [ ] Solutions
+### Physics
+- **[8.01 Physics I: Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/syllabus/)**
+- **[8.02 Physics II: Electricity And Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/syllabus/)**
+- **[8.03 Physics III: Vibrations And Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/pages/syllabus/)**
+- **[8.07 Electromagnetism II](https://www.ocw.somaliren.org.so/courses/physics/8-07-electromagnetism-ii-fall-2012/index.htm)**
 
-- **Lecture 3: Elimination with Matrices**
+### Quantum Physics
+- **[8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/syllabus/)**
+- **[8.044 Statistical Physics I](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/pages/syllabus/)**
+- **[8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/syllabus/)**
+- **[8.06 Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/pages/syllabus/)**
 
+### Computer Science
+- **[6.001 Structure and Interpretation of Computer Programs](https://www.ocw.somaliren.org.so/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/syllabus/)**
+- **[6.042 Mathematics for Computer Science](https://www.ocw.somaliren.org.so/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)**
+- **[6.045 Automata, Computability, and Complexity](https://www.ocw.somaliren.org.so/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/index.htm)**
+- **[6.046 Introduction to Algorithms](https://www.ocw.somaliren.org.so/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/index.htm)**
+- **[]()**
 
-- **Lecture 4: Multiplication and Inverse Matrices**
+## Graduate Courses
 
-  
-- **Lecture 5: Factorization into A = LU**
+### Quantum Theory
+- **[8.321 Quantum Theory I](https://www.ocw.somaliren.org.so/courses/physics/8-321-quantum-theory-i-fall-2017/)**
+- **[8.322 Quantum Theory II](https://www.ocw.somaliren.org.so/courses/physics/8-322-quantum-theory-ii-spring-2003/index.htm)**
 
-  
-- **Lecture 6: Transposes, Permutations, Vector Spaces**
+### Statistical Mechanics
+- **[8.333 Statistical Mechanics I: Statistical Mechanics Of Particles](https://www.ocw.somaliren.org.so/courses/physics/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/)**
+- **[8.334 Statistical Mechanics II: Statistical Physics of Fields](https://www.ocw.somaliren.org.so/courses/physics/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/)**
 
-  
-- **Lecture 7: Column Space and Nullspace**
+### Quantum Computation
+- **[6.845 Quantum Complexity Theory](https://www.ocw.somaliren.org.so/courses/electrical-engineering-and-computer-science/6-845-quantum-complexity-theory-fall-2010/)**
+- **[18.404 Theory of Computation](https://www.ocw.somaliren.org.so/courses/mathematics/18-404j-theory-of-computation-fall-2006/)**
+- **[18.435 Quantum Computation](https://www.ocw.somaliren.org.so/courses/mathematics/18-435j-quantum-computation-fall-2003/)**
+- 
 
-  
-- **Lecture 8: Solving Ax = 0: Pivot Variables, Special Solutions**
-
-  
-- **Lecture 9: Solving Ax = b: Row Reduced Form R**
-
-  
-- **Lecture 10: Independence, Basis and Dimension**
-
-  
-- **Lecture 11: The Four Fundamental Subspaces**
-
-  
-- **Lecture 12: Graphs, Networks, Incidence Matrices**
-
-  
-- **Lecture 13: Exam 1 Review**
-        
-...
-
-### Unit II: Least Squares, Determinants and Eigenvalues
-- **Lecture 14: Orthogonal Vectors and Subspaces**
-  - [ ] Lecture Notes
-  - [ ] Lecture Videos
-  - [ ] Problem Sets
-  - [ ] Solutions
-
-- **Lecture 15: Projections onto Subspaces**
-  - [ ] Lecture Notes
-  - [ ] Lecture Videos
-  - [ ] Problem Sets
-  - [ ] Solutions
-
-- **Lecture 16: Projection Matrices and Least Squares**
-
-  
-- **Lecture 17: Orthogonal Matrices and Gram-Schmidt**
-
-  
-- **Lecture 18: Properties of Determinants**
-
-  
-- **Lecture 19: Determinant Formulas and Cofactors**
-
-  
-- **Lecture 20: Cramer’s Rule, Inverse Matrix and Volume**
-
-  
-- **Lecture 21: Eigenvalues and Eigenvectors**
-
-  
-- **Lecture 22: Diagonalization and Powers of A**
-
-  
-- **Lecture 23: Differential Equations and exp(At)**
-
-  
-- **Lecture 24: Markov Matrices; Fourier Series**
-
-  
-- **Lecture 24b: Exam 2 Review**	
-
-...
-
-### Unit III: Positive Definite Matrices and Applications
-- **Lecture 25: Symmetric Matrices and Positive Definiteness**
-  - [ ] Lecture Notes
-  - [ ] Lecture Videos
-  - [ ] Problem Sets
-  - [ ] Solutions
-
-- **Lecture 26: Complex Matrices; Fast Fourier Transform (FFT)**
-  - [ ] Lecture Notes
-  - [ ] Lecture Videos
-  - [ ] Problem Sets
-  - [ ] Solutions
- 
-  - **Lecture 27: Positive Definite Matrices and Minima**
- 
-    
-  - **Lecture 28: Similar Matrices and Jordan Form**
- 
-    
-  - **Lecture 29: Singular Value Decomposition**
- 
-    
-  - **Lecture 30: Linear Transformations and Their Matrices**
- 
-    
-  - **Lecture 31: Change of Basis; Image Compression**
- 
-    
-  - **Lecture 32: Quiz 3 Review**
- 
-    
-  - **Lecture 33: Left and Right Inverses; Pseudoinverse**
- 
-    
-  - **Lecture 34: Final Course Review**
